@@ -1,0 +1,6 @@
+{
+  "name": "The York Guest House & Booking Engine",
+  "description": "Boutique York accommodation reservation system with multi-channel OTA synchronization, double-booking prevention, integrated payment processing, and local York attractions concierge. Support: (088) 557740.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
